@@ -28,7 +28,7 @@
 
   <groupId>org.apache.phoenix.thirdparty</groupId>
   <artifactId>phoenix-thirdparty</artifactId>
-  <version>5.2.1.3.3.6.5-SNAPSHOT</version>
+  <version>5.2.1.3.3.6.6-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Apache Phoenix Third-Party Libs</name>
   <description>Packaging of relocated (renamed, shaded) third-party libraries used by Phoenix.</description>
@@ -103,7 +103,7 @@
   </distributionManagement>
 
   <properties>
-    <odp.release.version>3.3.6.5-SNAPSHOT</odp.release.version>
+    <odp.release.version>3.3.6.6-SNAPSHOT</odp.release.version>
     <rename.offset>org.apache.phoenix.thirdparty</rename.offset>
     <guava.version>32.1.3-jre</guava.version>
     <commons-cli.version>1.9.0</commons-cli.version>
